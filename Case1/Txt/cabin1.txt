@@ -1,5 +1,0 @@
-2000
-2
-Ida 100
-Lucas 25
-Josefine 42
